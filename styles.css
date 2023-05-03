@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background: blue;
+}
+header{
+    background: chocolate;
+    padding: 1px 1px ;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+main{
+    background-color: aqua;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    position: relative;
+    top: -30px;
+}
+    
+.lista-challenge{
+    padding-bottom: 10px;
+}
+a{
+    text-decoration: none;
+}
+.icon-link{
+    
+}
+footer{
+    background-color: darkgoldenrod;
+}
