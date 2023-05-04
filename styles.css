@@ -22,6 +22,31 @@ main{
 a{
     text-decoration: none;
 }
+.lista{
+    display: flex;
+}
+
+.lista-cursos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.lista-cursos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+li img{
+    width: 55px;
+    height: 55px;
+}
 .icon-link{
     
 }
